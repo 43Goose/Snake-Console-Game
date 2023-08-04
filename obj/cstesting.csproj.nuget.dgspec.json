@@ -1,21 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Ermm acshually\\cstesting\\cstesting.csproj": {}
+    "C:\\Brogramming things and such\\Github\\Snake-Console-Game\\cstesting.csproj": {}
   },
   "projects": {
-    "D:\\Ermm acshually\\cstesting\\cstesting.csproj": {
+    "C:\\Brogramming things and such\\Github\\Snake-Console-Game\\cstesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Ermm acshually\\cstesting\\cstesting.csproj",
+        "projectUniqueName": "C:\\Brogramming things and such\\Github\\Snake-Console-Game\\cstesting.csproj",
         "projectName": "cstesting",
-        "projectPath": "D:\\Ermm acshually\\cstesting\\cstesting.csproj",
+        "projectPath": "C:\\Brogramming things and such\\Github\\Snake-Console-Game\\cstesting.csproj",
         "packagesPath": "C:\\Users\\owena\\.nuget\\packages\\",
-        "outputPath": "D:\\Ermm acshually\\cstesting\\obj\\",
+        "outputPath": "C:\\Brogramming things and such\\Github\\Snake-Console-Game\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
           "C:\\Users\\owena\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -55,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

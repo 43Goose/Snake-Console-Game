@@ -13,3 +13,18 @@ D:\Ermm acshually\cstesting\obj\Debug\net7.0\refint\cstesting.dll
 D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.pdb
 D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.genruntimeconfig.cache
 D:\Ermm acshually\cstesting\obj\Debug\net7.0\ref\cstesting.dll
+C:\Brogramming things and such\Github\Snake-Console-Game\bin\Debug\net7.0\cstesting.exe
+C:\Brogramming things and such\Github\Snake-Console-Game\bin\Debug\net7.0\cstesting.deps.json
+C:\Brogramming things and such\Github\Snake-Console-Game\bin\Debug\net7.0\cstesting.runtimeconfig.json
+C:\Brogramming things and such\Github\Snake-Console-Game\bin\Debug\net7.0\cstesting.dll
+C:\Brogramming things and such\Github\Snake-Console-Game\bin\Debug\net7.0\cstesting.pdb
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\cstesting.csproj.AssemblyReference.cache
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\cstesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\cstesting.AssemblyInfoInputs.cache
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\cstesting.AssemblyInfo.cs
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\cstesting.csproj.CoreCompileInputs.cache
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\cstesting.dll
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\refint\cstesting.dll
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\cstesting.pdb
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\cstesting.genruntimeconfig.cache
+C:\Brogramming things and such\Github\Snake-Console-Game\obj\Debug\net7.0\ref\cstesting.dll
