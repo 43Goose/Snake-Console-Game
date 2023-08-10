@@ -1,0 +1,15 @@
+D:\Ermm acshually\cstesting\bin\Debug\net7.0\cstesting.exe
+D:\Ermm acshually\cstesting\bin\Debug\net7.0\cstesting.deps.json
+D:\Ermm acshually\cstesting\bin\Debug\net7.0\cstesting.runtimeconfig.json
+D:\Ermm acshually\cstesting\bin\Debug\net7.0\cstesting.dll
+D:\Ermm acshually\cstesting\bin\Debug\net7.0\cstesting.pdb
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.csproj.AssemblyReference.cache
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.AssemblyInfoInputs.cache
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.AssemblyInfo.cs
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.csproj.CoreCompileInputs.cache
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.dll
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\refint\cstesting.dll
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.pdb
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\cstesting.genruntimeconfig.cache
+D:\Ermm acshually\cstesting\obj\Debug\net7.0\ref\cstesting.dll
