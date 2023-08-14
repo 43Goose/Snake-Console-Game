@@ -21,8 +21,11 @@ namespace cstesting
 
         public void MoveHead(ConsoleKey key)
         {
-            GridTile[] newSnakeList = new GridTile[SnakeList.Length];
+            GridTile[] newSnakeList = new GridTile[SnakeList.Length + 1];
             SnakeList.CopyTo(newSnakeList, 0);
+
+            GridTile lastSnakeBody = newSnakeList[newSnakeList.Length - 2];
+            newSnakeList[newSnakeList.Length - 1] = new GridTile(lastSnakeBody.x, lastSnakeBody.y, " ");
 
             if (key == ConsoleKey.DownArrow)
             {
