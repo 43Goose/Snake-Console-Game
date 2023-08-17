@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming Projects\\GitHub\\Snake-Console-Game\\cstesting.csproj",
+      "projectUniqueName": "C:\\Brogramming things and such\\Github\\Snake-Console-Game\\cstesting.csproj",
       "projectName": "cstesting",
-      "projectPath": "D:\\Programming Projects\\GitHub\\Snake-Console-Game\\cstesting.csproj",
+      "projectPath": "C:\\Brogramming things and such\\Github\\Snake-Console-Game\\cstesting.csproj",
       "packagesPath": "C:\\Users\\owena\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming Projects\\GitHub\\Snake-Console-Game\\obj\\",
+      "outputPath": "C:\\Brogramming things and such\\Github\\Snake-Console-Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

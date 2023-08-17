@@ -10,11 +10,16 @@ namespace cstesting
     {
         public GridTile[] SnakeList { get; private set; }
         public Renderer r;
+        public int SpawnX;
+        public int SpawnY;
 
-        public Snake(Renderer _r)
+        public Snake(Renderer _r, int _x, int _y)
         {
             r = _r;
-            GridTile[] newSnake = { new GridTile(1, 2, "O") };
+            SpawnX = _x;
+            SpawnY = _y;
+
+            GridTile[] newSnake = { new GridTile(SpawnX, SpawnY, "\u25A0") };
             SnakeList = newSnake;
             r.UpdateGrid(newSnake);
         }
