@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming Projects\\GitHub\\Snake-Console-Game\\cstesting.csproj": {}
+    "D:\\Ermm acshually\\cstesting\\cstesting.csproj": {}
   },
   "projects": {
-    "D:\\Programming Projects\\GitHub\\Snake-Console-Game\\cstesting.csproj": {
+    "D:\\Ermm acshually\\cstesting\\cstesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming Projects\\GitHub\\Snake-Console-Game\\cstesting.csproj",
+        "projectUniqueName": "D:\\Ermm acshually\\cstesting\\cstesting.csproj",
         "projectName": "cstesting",
-        "projectPath": "D:\\Programming Projects\\GitHub\\Snake-Console-Game\\cstesting.csproj",
+        "projectPath": "D:\\Ermm acshually\\cstesting\\cstesting.csproj",
         "packagesPath": "C:\\Users\\owena\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming Projects\\GitHub\\Snake-Console-Game\\obj\\",
+        "outputPath": "D:\\Ermm acshually\\cstesting\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
           "C:\\Users\\owena\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -61,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
