@@ -7,9 +7,9 @@ namespace cstesting {
 
         public Renderer(int _width, int _height)
         {
-            Width = _width;
-            Height = _height;
-            Grid = new GridTile[Height, Width];
+            this.Width = _width;
+            this.Height = _height;
+            this.Grid = new GridTile[Height, Width];
 
             for (int i = 0; i < Height; i++)
             {
